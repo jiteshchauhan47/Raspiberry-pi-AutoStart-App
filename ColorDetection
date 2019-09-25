@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ColorDetection
+Comment=Detection of Red Color
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=/home/pi/launcher.sh
+Type=Application
+Encoding=UTF-8
+Terminal=true
