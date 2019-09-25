@@ -1,0 +1,8 @@
+Step 1
+  go to pi folder
+  cd ~
+Step 2
+  open up .bashrc such as "sudo nano .bashrc"
+Step 3
+  ./path-to-launcher.sh such as "/home/pi/launcher.sh"
+  
